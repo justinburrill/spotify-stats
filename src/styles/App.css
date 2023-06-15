@@ -1,0 +1,14 @@
+img {
+  margin: auto;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  text-align: center;
+  margin: auto;
+}/*# sourceMappingURL=App.css.map */
