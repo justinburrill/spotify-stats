@@ -4,7 +4,7 @@ import ListComponent from "./TracksList.js";
 
 const data = {
     CLIENT_ID: "7e2111cdacaa4002be69723075f9b4ae",
-    REDIRECT_URI: "http://localhost:3000",
+    REDIRECT_URI: "http://justinburrill.ca/spotifystats",
     AUTH_ENDPOINT_URL: "https://accounts.spotify.com/authorize",
     RESPONSE_TYPE: "token",
     SCOPE: "user-top-read",
