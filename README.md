@@ -2,4 +2,4 @@
 
 project created with react that uses the spotify api
 
-**current work in progress**
+*I've got nothing to show for this one, spotify wants me to apply to use their API* 🥱
